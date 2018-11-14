@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Wie ben ik?</title>
+<title>Wie ben ik</title>
 </head>
 <body>
 
