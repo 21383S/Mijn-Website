@@ -11,9 +11,9 @@ body {
 
 margin:0 0;
 
-height: 300%;
+height: 50%;
 
-background: linear-gradient(white, blue); /* Standard syntax (must be last) */
+background: linear-gradient(#ffffff, #ffccff); /* Standard syntax (must be last) */
 
 }
 
