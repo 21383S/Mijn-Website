@@ -2,7 +2,6 @@
 <html>
 <body>
 body {
-height: 50%;
 background: linear-gradient(#ffffff, #ffccff); /* Standard syntax (must be last) */
 }
 
